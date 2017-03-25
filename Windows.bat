@@ -1,4 +1,5 @@
 @echo off
+cls
 :admchk
 echo Checking for Administrative permissions
 net sessions
