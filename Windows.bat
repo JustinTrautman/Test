@@ -19,3 +19,4 @@ echo maximum password age = 20
 echo unique password = 1
 echo lockout duration = 30 minutes
 echo lockout threshold = 5
+pause
